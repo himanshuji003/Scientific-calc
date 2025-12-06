@@ -42,19 +42,6 @@ Error handling
 
 Responsive button action
 
- Preview (UI Example)
- -------------------------------------------------
-|                 Scientific Calculator            |
- -------------------------------------------------
-|                     [ Display ]                  |
- -------------------------------------------------
-|  7  |  8  |  9  |  /  |
-|  4  |  5  |  6  |  *  |
-|  1  |  2  |  3  |  -  |
-|  0  |  .  |  =  |  +  |
-| sin | cos | tan | log |
-| ln  | sqrt| x^y |  C  |
---------------------------------------------------
 
 🚀 How to Run This Project
 1. Install Java
